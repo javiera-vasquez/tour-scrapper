@@ -7,7 +7,7 @@
     "start": "node app.js",
     "dev": "nodemon app.js"
   },
-  "author": "Javier Vasquez <s0wkete@gmail.com",
+  "author": "Javier Vasquez <s0wkete@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "cheerio": "^0.20.0",
