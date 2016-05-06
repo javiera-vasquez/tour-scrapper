@@ -1,0 +1,19 @@
+{
+  "name": "tour-scrapper",
+  "version": "1.0.0",
+  "description": "scrapper tool for cycling stats",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "Javier Vasquez <s0wkete@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.9.2"
+  }
+}
